@@ -1,0 +1,22 @@
+:root{
+  --clr-green: hsl(75, 94%, 57%);
+  --clr-white: hsl(0, 0%, 100%);
+  --clr-opacity-grey-700: hsl(0, 0%, 20%);
+  --clr-opacity-grey-800: hsl(0, 0%, 12%);
+  --clr-opacity-grey-900: hsl(0, 0%, 8%);
+  --fs-body: 0.875rem;
+  --ff-inter: 'inter', Sans-serif;
+}
+
+html,
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container{
+  width: 20rem;
+  background-color: var(--clr-opacity-grey-900);
+  margin: 20% auto;
+}
