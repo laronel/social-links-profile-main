@@ -1,6 +1,6 @@
 # Social Links Profile
 
-![Media social Profile](<img width="3166" height="2074" alt="image" src="https://github.com/user-attachments/assets/3d7941e1-a46b-43b7-9995-fd75a5a677b8" />
+![Media social Profile](<img width="3166" height="2074" alt="image" src="https://github.com/user-attachments/assets/67078486-76bb-4348-a12f-f4de7fe2c513" />
 )
 
 Goal: Improve Colors and Layout
