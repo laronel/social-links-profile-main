@@ -1,7 +1,6 @@
 # Social Links Profile
 
-![Media social Profile](<img width="3166" height="2074" alt="image" src="https://github.com/user-attachments/assets/67078486-76bb-4348-a12f-f4de7fe2c513" />
-)
+![Media social Profile](/assets/images/Frontend%20Mentor%20_%20Social%20links%20profile.png)
 
 Goal: Improve Colors and Layout
 Tech: HTML & CSS.
