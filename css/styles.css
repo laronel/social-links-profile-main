@@ -15,6 +15,10 @@ body{
   box-sizing: border-box;
 }
 
+body{
+  background-color: var(--clr-opacity-grey-900);
+}
+
 .container{
   max-width: 20rem;
   max-height: 100%;
@@ -22,7 +26,7 @@ body{
   margin: 20% auto;
   display: flex;
   flex-direction: column;
-  background-color: var(--clr-opacity-grey-900);
+  background-color: var(--clr-opacity-grey-800);
   border-radius: 1.55rem;
 }
 
@@ -82,4 +86,11 @@ button{
 button:hover{
   background-color: var(--clr-green);
   color: var(--clr-opacity-grey-900);
+}
+
+@media screen and (max-width: 375px){
+  .container{
+    margin: 40% 1.55rem 0 1.55rem;
+    padding: 1.55rem;
+  }
 }
